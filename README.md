@@ -7,5 +7,7 @@
 
 
 
-https://photos.app.goo.gl/THHfU2IMQXzYK3IM2
+<script src="https://storage.googleapis.com/vrview/2.0/build/vrview.min.js"></script>
+
+
 
