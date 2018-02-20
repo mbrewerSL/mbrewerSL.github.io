@@ -7,20 +7,8 @@
 
 
 
-<script src="https://storage.googleapis.com/vrview/2.0/build/vrview.min.js"></script>
-
-<div id='vrview'></div>
-
-window.addEventListener('load', onVrViewLoad);
-
-function onVrViewLoad() {
-  // Selector '#vrview' finds element with id 'vrview'.
-  var vrView = new VRView.Player('#vrview', {
-    video: 'https://photos.app.goo.gl/TdsyfqmWlNjIdJZo1',
-    is_stereo: true
-  });
-}
-
+<iframe src="https://storage.googleapis.com/vrview/2.0/embed?video=https://photos.app.goo.gl/1zy3OhPX2wjXEeNh2&is_stereo=true">
+</iframe>
 
 // Selector '#vrview' finds element with id 'vrview'.
 var vrView = new VRView.Player('#vrview', {
