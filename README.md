@@ -16,10 +16,14 @@ window.addEventListener('load', onVrViewLoad);
 function onVrViewLoad() {
   // Selector '#vrview' finds element with id 'vrview'.
   var vrView = new VRView.Player('#vrview', {
-    video: '/url/to/video.mp4',
+    video: 'https://photos.app.goo.gl/TdsyfqmWlNjIdJZo1',
     is_stereo: true
   });
 }
 
 
-
+// Selector '#vrview' finds element with id 'vrview'.
+var vrView = new VRView.Player('#vrview', {
+  video: 'https://photos.app.goo.gl/Otu5loIL5VpNXjli1',
+  is_stereo: true
+});
