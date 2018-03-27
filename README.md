@@ -2,6 +2,9 @@
 
 ### SLTechfirst
 
+**_This is_ bold** This is not
+
+~~Oops!~~ 
 <script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/mbrewer/techfirst'></script>
 
 
